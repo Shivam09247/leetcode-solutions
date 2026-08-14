@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Shivam09247/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -15,6 +16,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Shivam09247/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -43,6 +45,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
