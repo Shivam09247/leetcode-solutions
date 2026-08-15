@@ -94,4 +94,8 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
