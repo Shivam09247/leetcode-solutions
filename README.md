@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/Shivam09247/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Shivam09247/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Shivam09247/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
@@ -70,6 +72,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
 <!---LeetCode Topics End-->
