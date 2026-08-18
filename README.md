@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Shivam09247/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shivam09247/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Shivam09247/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shivam09247/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Shivam09247/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -93,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +122,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
