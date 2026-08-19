@@ -24,6 +24,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1046-last-stone-weight](https://github.com/Shivam09247/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Shivam09247/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
