@@ -46,6 +46,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@
 | [0058-length-of-last-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Shivam09247/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +164,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Shivam09247/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
