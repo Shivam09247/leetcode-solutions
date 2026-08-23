@@ -22,6 +22,7 @@
 | [0575-distribute-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shivam09247/leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Shivam09247/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1046-last-stone-weight](https://github.com/Shivam09247/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -197,6 +198,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Shivam09247/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -209,6 +211,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shivam09247/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/Shivam09247/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
