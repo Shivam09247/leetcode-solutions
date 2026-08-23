@@ -86,6 +86,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam09247/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2032-two-out-of-three](https://github.com/Shivam09247/leetcode-solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -141,6 +142,7 @@
 | [0383-ransom-note](https://github.com/Shivam09247/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Shivam09247/leetcode-solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -156,6 +158,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam09247/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
