@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Shivam09247/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/Shivam09247/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -102,6 +103,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Shivam09247/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Shivam09247/leetcode-solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
