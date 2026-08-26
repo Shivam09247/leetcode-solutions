@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Shivam09247/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Shivam09247/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -54,6 +55,7 @@
 | [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Shivam09247/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -126,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shivam09247/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Shivam09247/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
