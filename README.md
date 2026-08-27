@@ -56,6 +56,7 @@
 | [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Shivam09247/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -174,6 +175,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Shivam09247/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -271,4 +273,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
