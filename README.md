@@ -40,6 +40,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/Shivam09247/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2032-two-out-of-three](https://github.com/Shivam09247/leetcode-solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -225,6 +226,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Shivam09247/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
