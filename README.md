@@ -40,6 +40,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/Shivam09247/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Shivam09247/leetcode-solutions/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2032-two-out-of-three](https://github.com/Shivam09247/leetcode-solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
