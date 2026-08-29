@@ -16,6 +16,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shivam09247/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/Shivam09247/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Shivam09247/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Shivam09247/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -226,6 +227,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Shivam09247/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Shivam09247/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
