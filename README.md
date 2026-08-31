@@ -31,6 +31,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Shivam09247/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1046-last-stone-weight](https://github.com/Shivam09247/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
@@ -105,6 +106,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
+| [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -176,6 +178,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Shivam09247/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -201,6 +204,7 @@
 | [0551-student-attendance-record-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0709-to-lower-case](https://github.com/Shivam09247/leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+| [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Shivam09247/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1629-slowest-key](https://github.com/Shivam09247/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
