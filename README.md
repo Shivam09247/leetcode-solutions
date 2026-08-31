@@ -50,6 +50,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -79,6 +80,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@
 | [2032-two-out-of-three](https://github.com/Shivam09247/leetcode-solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
