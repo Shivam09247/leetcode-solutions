@@ -301,14 +301,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam09247/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Shivam09247/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam09247/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Shivam09247/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam09247/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Shivam09247/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,4 +366,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Shivam09247/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Shivam09247/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
