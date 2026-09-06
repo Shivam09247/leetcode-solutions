@@ -40,6 +40,7 @@
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0896-monotonic-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1046-last-stone-weight](https://github.com/Shivam09247/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
@@ -127,6 +128,7 @@
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -237,6 +239,7 @@
 | [0796-rotate-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Shivam09247/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1629-slowest-key](https://github.com/Shivam09247/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
