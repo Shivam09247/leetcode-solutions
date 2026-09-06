@@ -30,6 +30,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shivam09247/leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
@@ -83,6 +84,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Shivam09247/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -175,6 +177,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Shivam09247/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -243,6 +246,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shivam09247/leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -381,6 +385,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Shivam09247/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
