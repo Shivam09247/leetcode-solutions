@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shivam09247/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Shivam09247/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Shivam09247/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
@@ -78,6 +79,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shivam09247/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Shivam09247/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -266,6 +268,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shivam09247/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shivam09247/leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
