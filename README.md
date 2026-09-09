@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Shivam09247/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shivam09247/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Shivam09247/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
@@ -103,6 +104,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shivam09247/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
