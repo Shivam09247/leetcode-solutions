@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shivam09247/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/Shivam09247/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Shivam09247/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Shivam09247/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -121,6 +122,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Shivam09247/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam09247/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Shivam09247/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/Shivam09247/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
@@ -187,6 +189,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Shivam09247/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0049-group-anagrams](https://github.com/Shivam09247/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Shivam09247/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -241,6 +244,7 @@
 | [0014-longest-common-prefix](https://github.com/Shivam09247/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/Shivam09247/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0139-word-break](https://github.com/Shivam09247/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
