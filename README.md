@@ -18,6 +18,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam09247/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Shivam09247/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/Shivam09247/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -120,6 +121,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shivam09247/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Shivam09247/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/Shivam09247/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -445,4 +447,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shivam09247/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
