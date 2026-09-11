@@ -172,6 +172,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Shivam09247/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -222,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam09247/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/Shivam09247/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -415,6 +417,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Shivam09247/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
