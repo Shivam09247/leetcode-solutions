@@ -43,6 +43,7 @@
 | [0575-distribute-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shivam09247/leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Shivam09247/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
@@ -144,6 +145,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
+| [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -187,6 +189,7 @@
 | [0136-single-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Shivam09247/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [2032-two-out-of-three](https://github.com/Shivam09247/leetcode-solutions/tree/main/2032-two-out-of-three/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -208,6 +211,7 @@
 | [0389-find-the-difference](https://github.com/Shivam09247/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
