@@ -40,6 +40,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0575-distribute-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shivam09247/leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -145,6 +146,7 @@
 | [0409-longest-palindrome](https://github.com/Shivam09247/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0575-distribute-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
@@ -320,6 +322,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Shivam09247/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/Shivam09247/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Shivam09247/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
