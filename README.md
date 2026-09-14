@@ -187,6 +187,7 @@
 | [0066-plus-one](https://github.com/Shivam09247/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -517,4 +518,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam09247/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
