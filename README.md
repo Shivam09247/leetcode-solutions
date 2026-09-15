@@ -54,6 +54,7 @@
 | [0704-binary-search](https://github.com/Shivam09247/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Shivam09247/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Shivam09247/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0896-monotonic-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
@@ -131,6 +132,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Shivam09247/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Shivam09247/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@
 | [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Shivam09247/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Shivam09247/leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -230,6 +233,7 @@
 | [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/Shivam09247/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Shivam09247/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
