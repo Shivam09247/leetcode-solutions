@@ -63,6 +63,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/Shivam09247/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Shivam09247/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -114,6 +115,7 @@
 | [0392-is-subsequence](https://github.com/Shivam09247/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Shivam09247/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
