@@ -72,6 +72,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1629-slowest-key](https://github.com/Shivam09247/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/Shivam09247/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Shivam09247/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Shivam09247/leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -129,6 +130,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/Shivam09247/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
