@@ -95,6 +95,7 @@
 | [2784-check-if-array-is-good](https://github.com/Shivam09247/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shivam09247/leetcode-solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Shivam09247/leetcode-solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -135,6 +136,7 @@
 | [1652-defuse-the-bomb](https://github.com/Shivam09247/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +385,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Shivam09247/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
