@@ -133,6 +133,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Shivam09247/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam09247/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -227,6 +229,7 @@
 | [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2032-two-out-of-three](https://github.com/Shivam09247/leetcode-solutions/tree/main/2032-two-out-of-three/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -266,6 +269,7 @@
 | [0053-maximum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +327,7 @@
 | [1544-make-the-string-great](https://github.com/Shivam09247/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1629-slowest-key](https://github.com/Shivam09247/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/Shivam09247/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam09247/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
