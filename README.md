@@ -348,6 +348,7 @@
 | [3019-number-of-changing-keys](https://github.com/Shivam09247/leetcode-solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/Shivam09247/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
+| [3330-find-the-original-typed-string-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/3330-find-the-original-typed-string-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
