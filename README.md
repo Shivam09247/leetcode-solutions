@@ -345,6 +345,7 @@
 | [2418-sort-the-people](https://github.com/Shivam09247/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Shivam09247/leetcode-solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shivam09247/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/Shivam09247/leetcode-solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/Shivam09247/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Greedy
