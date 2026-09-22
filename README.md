@@ -71,6 +71,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shivam09247/leetcode-solutions/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1629-slowest-key](https://github.com/Shivam09247/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
@@ -196,6 +197,7 @@
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1399-count-largest-group](https://github.com/Shivam09247/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
@@ -232,6 +234,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1399-count-largest-group](https://github.com/Shivam09247/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -313,6 +316,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1399-count-largest-group](https://github.com/Shivam09247/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
