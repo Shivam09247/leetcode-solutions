@@ -157,6 +157,7 @@
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Shivam09247/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/Shivam09247/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Shivam09247/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
@@ -234,6 +235,7 @@
 | [0070-climbing-stairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Shivam09247/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
