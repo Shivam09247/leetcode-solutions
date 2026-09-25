@@ -70,6 +70,7 @@
 | [1089-duplicate-zeros](https://github.com/Shivam09247/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shivam09247/leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shivam09247/leetcode-solutions/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -244,6 +245,7 @@
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shivam09247/leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1399-count-largest-group](https://github.com/Shivam09247/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -459,6 +461,7 @@
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shivam09247/leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivam09247/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shivam09247/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
