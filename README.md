@@ -135,6 +135,7 @@
 | [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Shivam09247/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Shivam09247/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Shivam09247/leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/Shivam09247/leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -372,6 +373,7 @@
 | [0796-rotate-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Shivam09247/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Shivam09247/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Shivam09247/leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/Shivam09247/leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
@@ -452,6 +454,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam09247/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Shivam09247/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Shivam09247/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
@@ -471,6 +474,7 @@
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Shivam09247/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shivam09247/leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivam09247/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivam09247/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
