@@ -83,6 +83,7 @@
 | [1652-defuse-the-bomb](https://github.com/Shivam09247/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Shivam09247/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivam09247/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Shivam09247/leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Shivam09247/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -452,6 +453,7 @@
 | [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Shivam09247/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivam09247/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shivam09247/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/Shivam09247/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
@@ -460,6 +462,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivam09247/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivam09247/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -467,6 +470,7 @@
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shivam09247/leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivam09247/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivam09247/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shivam09247/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
