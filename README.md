@@ -377,6 +377,7 @@
 | [0925-long-pressed-name](https://github.com/Shivam09247/leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Shivam09247/leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Shivam09247/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1629-slowest-key](https://github.com/Shivam09247/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
@@ -451,6 +452,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam09247/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Shivam09247/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivam09247/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -550,6 +552,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
