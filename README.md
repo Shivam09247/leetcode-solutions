@@ -97,6 +97,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shivam09247/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shivam09247/leetcode-solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Shivam09247/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -304,6 +305,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Shivam09247/leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivam09247/leetcode-solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shivam09247/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shivam09247/leetcode-solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2418-sort-the-people](https://github.com/Shivam09247/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -411,6 +413,7 @@
 | [0605-can-place-flowers](https://github.com/Shivam09247/leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Shivam09247/leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shivam09247/leetcode-solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -426,6 +429,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/Shivam09247/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/Shivam09247/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shivam09247/leetcode-solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Shivam09247/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Quickselect
