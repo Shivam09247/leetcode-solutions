@@ -65,6 +65,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/Shivam09247/leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1037-valid-boomerang](https://github.com/Shivam09247/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1046-last-stone-weight](https://github.com/Shivam09247/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Shivam09247/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
@@ -254,6 +255,7 @@
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1037-valid-boomerang](https://github.com/Shivam09247/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shivam09247/leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1399-count-largest-group](https://github.com/Shivam09247/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -673,4 +675,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivam09247/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1037-valid-boomerang](https://github.com/Shivam09247/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
 <!---LeetCode Topics End-->
