@@ -401,6 +401,7 @@
 | [0796-rotate-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Shivam09247/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0824-goat-latin](https://github.com/Shivam09247/leetcode-solutions/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Shivam09247/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Shivam09247/leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
