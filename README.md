@@ -59,6 +59,7 @@
 | [0682-baseball-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Shivam09247/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Shivam09247/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Shivam09247/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Shivam09247/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
@@ -218,6 +219,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Shivam09247/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
@@ -395,6 +397,7 @@
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0709-to-lower-case](https://github.com/Shivam09247/leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0796-rotate-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Shivam09247/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
