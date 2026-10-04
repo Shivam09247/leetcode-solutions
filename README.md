@@ -76,6 +76,7 @@
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Shivam09247/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shivam09247/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shivam09247/leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -232,6 +233,7 @@
 | [0966-vowel-spellchecker](https://github.com/Shivam09247/leetcode-solutions/tree/main/0966-vowel-spellchecker/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shivam09247/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam09247/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -366,6 +368,7 @@
 | [0819-most-common-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shivam09247/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Shivam09247/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -415,6 +418,7 @@
 | [0966-vowel-spellchecker](https://github.com/Shivam09247/leetcode-solutions/tree/main/0966-vowel-spellchecker/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shivam09247/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shivam09247/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1629-slowest-key](https://github.com/Shivam09247/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
