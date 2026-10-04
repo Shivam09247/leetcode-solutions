@@ -243,6 +243,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shivam09247/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam09247/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -374,6 +375,7 @@
 | [1512-number-of-good-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shivam09247/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivam09247/leetcode-solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -425,6 +427,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Shivam09247/leetcode-solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shivam09247/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/Shivam09247/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam09247/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
