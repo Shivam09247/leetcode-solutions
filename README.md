@@ -68,6 +68,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Shivam09247/leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0966-vowel-spellchecker](https://github.com/Shivam09247/leetcode-solutions/tree/main/0966-vowel-spellchecker/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1037-valid-boomerang](https://github.com/Shivam09247/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
@@ -228,6 +229,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Shivam09247/leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0966-vowel-spellchecker](https://github.com/Shivam09247/leetcode-solutions/tree/main/0966-vowel-spellchecker/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Shivam09247/leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shivam09247/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -410,6 +412,7 @@
 | [0925-long-pressed-name](https://github.com/Shivam09247/leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Shivam09247/leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0966-vowel-spellchecker](https://github.com/Shivam09247/leetcode-solutions/tree/main/0966-vowel-spellchecker/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivam09247/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
