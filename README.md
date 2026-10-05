@@ -112,6 +112,7 @@
 | [2404-most-frequent-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Shivam09247/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/Shivam09247/leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Shivam09247/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -159,6 +160,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam09247/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/Shivam09247/leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -256,6 +258,7 @@
 | [2404-most-frequent-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Shivam09247/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/Shivam09247/leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Shivam09247/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -341,6 +344,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shivam09247/leetcode-solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2418-sort-the-people](https://github.com/Shivam09247/leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/Shivam09247/leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Shivam09247/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
