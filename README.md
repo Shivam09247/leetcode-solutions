@@ -127,6 +127,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +266,7 @@
 | [3731-find-missing-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Shivam09247/leetcode-solutions/tree/main/3945-digit-frequency-score/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +343,7 @@
 | [2784-check-if-array-is-good](https://github.com/Shivam09247/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +387,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/Shivam09247/leetcode-solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shivam09247/leetcode-solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shivam09247/leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +473,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shivam09247/leetcode-solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Shivam09247/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +537,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shivam09247/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3174-clear-digits](https://github.com/Shivam09247/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -715,4 +721,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1037-valid-boomerang](https://github.com/Shivam09247/leetcode-solutions/tree/main/1037-valid-boomerang/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
