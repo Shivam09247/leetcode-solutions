@@ -120,6 +120,7 @@
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Shivam09247/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shivam09247/leetcode-solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivam09247/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -163,6 +164,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Shivam09247/leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivam09247/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam09247/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivam09247/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +353,7 @@
 | [2465-number-of-distinct-averages](https://github.com/Shivam09247/leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Shivam09247/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivam09247/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivam09247/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
