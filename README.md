@@ -295,6 +295,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Shivam09247/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Shivam09247/leetcode-solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Shivam09247/leetcode-solutions/tree/main/3945-digit-frequency-score/) | Easy |
@@ -351,6 +352,7 @@
 | [2784-check-if-array-is-good](https://github.com/Shivam09247/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Shivam09247/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shivam09247/leetcode-solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
