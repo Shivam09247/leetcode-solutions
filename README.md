@@ -122,6 +122,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shivam09247/leetcode-solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shivam09247/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Shivam09247/leetcode-solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -162,6 +163,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shivam09247/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Shivam09247/leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shivam09247/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +350,7 @@
 | [2706-buy-two-chocolates](https://github.com/Shivam09247/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Shivam09247/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shivam09247/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shivam09247/leetcode-solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
