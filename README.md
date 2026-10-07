@@ -44,6 +44,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0454-4sum-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Shivam09247/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Shivam09247/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -227,6 +228,7 @@
 | [0389-find-the-difference](https://github.com/Shivam09247/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shivam09247/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0454-4sum-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
