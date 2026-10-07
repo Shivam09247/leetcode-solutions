@@ -218,6 +218,7 @@
 | [0242-valid-anagram](https://github.com/Shivam09247/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Shivam09247/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/Shivam09247/leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam09247/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -384,6 +385,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Shivam09247/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0299-bulls-and-cows](https://github.com/Shivam09247/leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Shivam09247/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -420,6 +422,7 @@
 | [0205-isomorphic-strings](https://github.com/Shivam09247/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Shivam09247/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Shivam09247/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/Shivam09247/leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Shivam09247/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
