@@ -432,6 +432,7 @@
 | [0392-is-subsequence](https://github.com/Shivam09247/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shivam09247/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shivam09247/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/Shivam09247/leetcode-solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Shivam09247/leetcode-solutions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0709-to-lower-case](https://github.com/Shivam09247/leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Shivam09247/leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
