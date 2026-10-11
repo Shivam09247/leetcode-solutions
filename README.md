@@ -67,6 +67,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/Shivam09247/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Shivam09247/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0896-monotonic-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
+| [0912-sort-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shivam09247/leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shivam09247/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Shivam09247/leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -348,6 +349,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/Shivam09247/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Shivam09247/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [0912-sort-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shivam09247/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -377,6 +379,7 @@
 | [0053-maximum-subarray](https://github.com/Shivam09247/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -499,6 +502,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shivam09247/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/Shivam09247/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
+| [0912-sort-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Shivam09247/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shivam09247/leetcode-solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Shivam09247/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -513,6 +517,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivam09247/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -612,6 +617,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/Shivam09247/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam09247/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bubble Sort
@@ -720,6 +726,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam09247/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0912-sort-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -756,4 +763,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shivam09247/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Shivam09247/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
