@@ -703,6 +703,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam09247/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/Shivam09247/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Shivam09247/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -780,4 +781,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivam09247/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Shivam09247/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
